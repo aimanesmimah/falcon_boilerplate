@@ -1,0 +1,6 @@
+app/logger.py
+app/resources/authentication.py
+app/resources/users.py
+**/*.pyc
+config
+data
